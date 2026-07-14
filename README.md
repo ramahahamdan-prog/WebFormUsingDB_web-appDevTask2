@@ -1,6 +1,5 @@
 # WebFormUsingDB_web-appDevTask2
 This project is to understand the form filling in websites, and to achive the PHP funcutions.
-# Student Status Management System
 
 A simple web application developed using **PHP**, **MySQL**, **HTML**, and **CSS**. The project allows users to add student records, display them in a table, and update each student's status by toggling between active and inactive.
 
